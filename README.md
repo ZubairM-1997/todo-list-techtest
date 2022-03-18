@@ -1,5 +1,9 @@
 # To Do List Technical Test
 
+To get started
+1) first enter 'npm install' to install all the dependancies
+2) to start the application, enter 'npm start' to boot up the development server
+
 This is my solution for the To Do List technical test, as you can see, this was made with React.js and Hooks for state management. 
 
 ## Solution
@@ -10,7 +14,7 @@ TodoList.js - contains all the functionality for the CRUD operations needed for 
 
 TodoForm.js - just contains the form to submit the to do, which then adds to the list
 
-Todo.js - Renders all of the todo's in the list onto the page, also contains some extra functionality to edit a todo if needed
+Todo.js - Renders all of the todo's in the list onto the page, also contains some extra functionality to edit and remove a todo if needed
 
 
 ### Demo
